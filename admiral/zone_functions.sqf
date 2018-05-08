@@ -1,7 +1,7 @@
 #include "admiral_macros.h"
 #include "admiral_modules_macros.h"
 
-#include "\userconfig\admiral\log\zone.h"
+#include "\x\ark\addons\admiral\log\zone.h"
 #include "logbook.h"
 
 adm_zone_fnc_init = {

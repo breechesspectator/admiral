@@ -1,6 +1,6 @@
 #include "admiral_macros.h"
 
-#include "\userconfig\admiral\log\postinit.h"
+#include "\x\ark\addons\admiral\log\postinit.h"
 #include "logbook.h"
 
 

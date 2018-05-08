@@ -1,6 +1,6 @@
 #include "admiral_macros.h"
 
-#include "\userconfig\admiral\log\cqc.h"
+#include "\x\ark\addons\admiral\log\cqc.h"
 #include "logbook.h"
 
 

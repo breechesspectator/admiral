@@ -1,6 +1,6 @@
 #include "admiral_macros.h"
 
-#include "\userconfig\admiral\log\preinit.h"
+#include "\x\ark\addons\admiral\log\preinit.h"
 #include "logbook.h"
 
 

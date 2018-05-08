@@ -1,6 +1,6 @@
 #include "admiral_macros.h"
 
-#include "\userconfig\admiral\log\behavior.h"
+#include "\x\ark\addons\admiral\log\behavior.h"
 #include "logbook.h"
 
 
